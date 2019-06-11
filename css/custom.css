@@ -1,0 +1,57 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #ffffff;
+}
+
+.intro {
+  background-color: #454d66;
+}
+.skills {
+  background-color: #454d66;
+}
+
+.address {
+  background-color: #454d66;
+  color: white !important;
+}
+
+.firstlink {
+  background-color: #454d66;
+}
+
+.secondlink {
+  background-color: #454d66;
+}
+
+.thirdlink {
+  background-color: #454d66;
+}
+
+.tops {
+  background-color: #454d66;
+}
+
+.bottom {
+  background-color: #454d66;
+  padding: 20px;
+}
+
+.aboutMe {
+  background-color: #454d66;
+}
+
+.buttontop {
+  background-color: #454d66;
+  color: white;
+  padding: 1em 1.5em;
+  text-decoration: none;
+}
+
+#carouselExampleControls {
+  width: 100%;
+}
+
+.carousel img {
+  width: 100%;
+  object-fit: cover;
+}
